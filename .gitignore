@@ -1,0 +1,38 @@
+# Eclipse project files
+
+.classpath
+
+.project
+
+.settings/
+
+
+# Generated class files
+
+bin/
+
+
+# Generated JAR files
+
+target/
+
+
+# Log files
+
+logs/
+
+
+# External libraries
+
+lib/
+
+
+# Gradle files
+
+.gradle/
+
+
+# Local configuration 
+# Local configuration files
+README.md
+*.properties
